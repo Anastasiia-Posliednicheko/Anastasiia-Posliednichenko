@@ -39,7 +39,7 @@ Focused on writing clean, user-friendly code and eager to grow in a collaborativ
 ## 📫 Contact Me
 
 - ✉️ Email: [anastasiia.p.work@gmail.com](mailto:anastasiia.p.work@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/anastasiia-posliednichenko-7715a0360](https://www.linkedin.com/in/anastasiia-posliednichenko-7715a0360/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/anastasiia-posliednichenko/
 
 ---
 
