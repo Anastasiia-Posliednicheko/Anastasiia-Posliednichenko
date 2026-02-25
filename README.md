@@ -7,6 +7,11 @@
 💻 Passionate about building clean, user-friendly web applications
 
 ---
+## 🌐 GitHub Portfolio
+
+🔗 https://github.com/anastasiia-portfolio
+
+---
 
 ## 💬 About Me
 
