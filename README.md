@@ -9,7 +9,7 @@
 ---
 ## 🌐 GitHub Portfolio
 
-🔗 https://github.com/anastasiia-portfolio
+🔗 https://github.com/orgs/anastasiia-portfolio/repositories
 
 ---
 
