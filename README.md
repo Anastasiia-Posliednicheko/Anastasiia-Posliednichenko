@@ -6,13 +6,6 @@
 📚 Actively learning **English** and **German**  
 💻 Passionate about building clean, user-friendly web applications
 
----
-## 🌐 GitHub Portfolio
-
-🔗 https://github.com/orgs/anastasiia-portfolio/repositories
-
----
-
 ## 💬 About Me
 
 Motivated and detail-oriented Junior Frontend Developer with solid knowledge of  
